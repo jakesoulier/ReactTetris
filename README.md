@@ -13,7 +13,7 @@ Most of my files were .jsx.  I found this to format better when using JavaScript
 # Useful Websites
 
 * [W3 Schools Java](https://www.w3schools.com/java/)
-* [Stack Overflow](https://stackoverflow.com/)
+* [React JS page](https://reactjs.org/)
 
 # Future Work
 
