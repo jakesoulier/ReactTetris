@@ -12,7 +12,7 @@ Most of my files were .jsx.  I found this to format better when using JavaScript
 
 # Useful Websites
 
-* [W3 Schools Java](https://www.w3schools.com/java/)
+* [W3 Schools React](https://www.w3schools.com/REACT/DEFAULT.ASP)
 * [React JS page](https://reactjs.org/)
 
 # Future Work
