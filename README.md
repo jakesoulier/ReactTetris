@@ -17,6 +17,5 @@ Most of my files were .jsx.  I found this to format better when using JavaScript
 
 # Future Work
 
-* Better system of checking if a guess was made or not.
-* Building it in a grid of 4x4.
-* Putting it in a visual or GUI.
+* It spawns in random block shapes, but I need to work to keep the block when it is on the bottom and then spawn in another random shape.
+* Adding a score component.
